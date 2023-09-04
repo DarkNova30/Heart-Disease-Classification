@@ -22,4 +22,12 @@ This project uses machine learning techniques, specifically an Artificial Neural
 - Uses a deep learning ANN model to classify heart disease.
 - Provides prediction probabilities and classification results.
 
+## Model Architecture 
+1. **Input Layer:** The input layer accepts the medical attributes of the patient, such as age, sex, cholesterol levels, and more. It preprocesses the data and passes it to the subsequent layers.
+
+2. **Hidden Layers:** These layers are responsible for feature extraction and pattern recognition. The number of hidden layers and neurons per layer were selected to optimize the model's performance.
+
+3. **Activation Functions:** Each hidden layer employs an activation function, such as ReLU (Rectified Linear Unit) or Sigmoid, to introduce non-linearity and capture complex relationships within the data.
+
+4. **Output Layer:** The final layer is the output layer, which provides the binary classification result: whether the patient is likely to have heart disease or not. It uses the sigmoid activation function to produce prediction probabilities.
 
