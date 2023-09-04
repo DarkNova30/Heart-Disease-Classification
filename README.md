@@ -3,6 +3,8 @@
 ![Heart Disease](https://img.shields.io/badge/Heart%20Disease%20Classification-ANN-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-2.0%2B-red.svg)
+
 
 An Artificial Neural Network (ANN) based project for predicting the likelihood of heart disease in patients based on various medical attributes.
 
